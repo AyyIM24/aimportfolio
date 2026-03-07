@@ -143,7 +143,7 @@ export default function HeroSection() {
                 <img
                   src={ayyanPhoto}
                   alt="Ayyan Iqbal Muqadam"
-                  className="w-full h-full object-cover rounded-full"
+                  className="w-full h-full object-cover object-top rounded-full scale-[0.85]"
                 />
               </div>
               {/* Decorative ring */}
