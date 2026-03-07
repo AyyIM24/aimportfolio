@@ -90,8 +90,7 @@ export default function HeroSection() {
               </a>
               <a
                 href="/resume.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
+                download="Ayyan_Iqbal_Muqadam_Resume.pdf"
                 className="neon-btn rounded-lg flex items-center gap-2"
               >
                 <Download size={16} /> DOWNLOAD RESUME
